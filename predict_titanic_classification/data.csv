@@ -1,4 +1,4 @@
-ID,survived,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,home.dest
+PassengerId,Survived,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,home.dest
 0,0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,,S,"Wiltshire, England Niagara Falls, NY"
 1,0,3,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,7.05,,S,
 2,0,3,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,,S,

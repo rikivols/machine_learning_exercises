@@ -1,4 +1,4 @@
-ID,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,home.dest
+PassengerId,pclass,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,home.dest
 1000,3,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,,C,
 1001,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,PC 17598,31.6833,,S,"New York, NY"
 1002,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,133.65,,S,"New York, NY"

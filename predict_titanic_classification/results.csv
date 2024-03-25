@@ -1,4 +1,4 @@
-ID,survived
+PassengerId,Survived
 1000,0
 1001,1
 1002,1
